@@ -1,2 +1,4 @@
 ini hanya coba menggunakan repository dari github
 supaya gak bayar doamai kalo buat web portofolio
+abis ini mau buat bootstrap
+dan buat portofolio
